@@ -133,6 +133,8 @@
     DECL(tpms_jansite) \
     DECL(lacrosse_ws7000) \
     DECL(ts_ft002) \
+    DECL(nice_flors) \
+    DECL(beamish)
     /* Add new decoders here. */
 
 #define DECL(name) extern r_device name;
